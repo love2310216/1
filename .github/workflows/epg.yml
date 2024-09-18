@@ -15,7 +15,7 @@ jobs:
     - name: Fetch EPG Files
       run: |
         rm -f epg.xml
-        wget -O epg.xml https://epg.112114.xyz/pp.xml
+        wget -O epg.xml http://love23.tpddns.cn:5678/epg/t.xml
         git config --local user.name "github-actions[bot]"
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git add epg.xml
