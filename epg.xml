@@ -22992,6 +22992,153 @@ Filmed over 2000 dives on coral reef ecosystems; The Great Barrier Reef, Ningalo
 		<title lang="zh">Mamma En Chef 第9集 -Natalia - Belarus</title>
 		<desc lang="zh">Belarusians eat more potatoes than any other nation. So in Natalia's kitchen today the spotlight is firmly on the not so humble ''spud''! And at the end everyone is up and dancing, with vodka and gherkins thrown in!</desc>
 	</programme>
+	<channel id="TVBS">
+		<display-name lang="zh">TVBS</display-name>
+	</channel>
+	<programme channel="TVBS" start="20240927000000 +0800" stop="20240927010000 +0800">
+		<title lang="zh">國民大會</title>
+	</programme>
+	<programme channel="TVBS" start="20240927010000 +0800" stop="20240927020000 +0800">
+		<title lang="zh">地球黃金線</title>
+	</programme>
+	<programme channel="TVBS" start="20240927020000 +0800" stop="20240927030000 +0800">
+		<title lang="zh">FOCUS全球新聞</title>
+	</programme>
+	<programme channel="TVBS" start="20240927030000 +0800" stop="20240927040000 +0800">
+		<title lang="zh">少康戰情室</title>
+	</programme>
+	<programme channel="TVBS" start="20240927040000 +0800" stop="20240927050000 +0800">
+		<title lang="zh">FOCUS國際話題</title>
+	</programme>
+	<programme channel="TVBS" start="20240927050000 +0800" stop="20240927060000 +0800">
+		<title lang="zh">FOCUS世界新聞</title>
+	</programme>
+	<programme channel="TVBS" start="20240927060000 +0800" stop="20240927070000 +0800">
+		<title lang="zh">FOCUS世界新聞</title>
+	</programme>
+	<programme channel="TVBS" start="20240927070000 +0800" stop="20240927080000 +0800">
+		<title lang="zh">FOCUS全球新聞</title>
+	</programme>
+	<programme channel="TVBS" start="20240927080000 +0800" stop="20240927090000 +0800">
+		<title lang="zh">健康2.0</title>
+	</programme>
+	<programme channel="TVBS" start="20240927090000 +0800" stop="20240927100000 +0800">
+		<title lang="zh">地球黃金線</title>
+	</programme>
+	<programme channel="TVBS" start="20240927100000 +0800" stop="20240927110000 +0800">
+		<title lang="zh">金臨天下</title>
+	</programme>
+	<programme channel="TVBS" start="20240927110000 +0800" stop="20240927120000 +0800">
+		<title lang="zh">FOCUS國際話題</title>
+	</programme>
+	<programme channel="TVBS" start="20240927120000 +0800" stop="20240927130000 +0800">
+		<title lang="zh">FOCUS世界新聞</title>
+	</programme>
+	<programme channel="TVBS" start="20240927130000 +0800" stop="20240927140000 +0800">
+		<title lang="zh">FOCUS世界新聞</title>
+	</programme>
+	<programme channel="TVBS" start="20240927140000 +0800" stop="20240927150000 +0800">
+		<title lang="zh">新聞大白話</title>
+	</programme>
+	<programme channel="TVBS" start="20240927150000 +0800" stop="20240927160000 +0800">
+		<title lang="zh">新聞大白話</title>
+	</programme>
+	<programme channel="TVBS" start="20240927160000 +0800" stop="20240927170000 +0800">
+		<title lang="zh">新聞大白話</title>
+	</programme>
+	<programme channel="TVBS" start="20240927170000 +0800" stop="20240927180000 +0800">
+		<title lang="zh">新聞大白話</title>
+	</programme>
+	<programme channel="TVBS" start="20240927180000 +0800" stop="20240927190000 +0800">
+		<title lang="zh">國民大會</title>
+	</programme>
+	<programme channel="TVBS" start="20240927190000 +0800" stop="20240927200000 +0800">
+		<title lang="zh">FOCUS全球新聞</title>
+	</programme>
+	<programme channel="TVBS" start="20240927200000 +0800" stop="20240927210000 +0800">
+		<title lang="zh">少康戰情室</title>
+	</programme>
+	<programme channel="TVBS" start="20240927210000 +0800" stop="20240927220000 +0800">
+		<title lang="zh">少康戰情室</title>
+	</programme>
+	<programme channel="TVBS" start="20240927220000 +0800" stop="20240927230000 +0800">
+		<title lang="zh">地球黃金線</title>
+	</programme>
+	<programme channel="TVBS" start="20240927230000 +0800" stop="20240927235900 +0800">
+		<title lang="zh">金臨天下</title>
+	</programme>
+	<programme channel="TVBS" start="20240928000000 +0800" stop="20240928010000 +0800">
+		<title lang="zh">國民大會</title>
+	</programme>
+	<programme channel="TVBS" start="20240928010000 +0800" stop="20240928020000 +0800">
+		<title lang="zh">地球黃金線</title>
+	</programme>
+	<programme channel="TVBS" start="20240928020000 +0800" stop="20240928030000 +0800">
+		<title lang="zh">FOCUS全球新聞</title>
+	</programme>
+	<programme channel="TVBS" start="20240928030000 +0800" stop="20240928040000 +0800">
+		<title lang="zh">少康戰情室</title>
+	</programme>
+	<programme channel="TVBS" start="20240928040000 +0800" stop="20240928050000 +0800">
+		<title lang="zh">FOCUS國際話題</title>
+	</programme>
+	<programme channel="TVBS" start="20240928050000 +0800" stop="20240928060000 +0800">
+		<title lang="zh">一步一腳印發現新台灣</title>
+	</programme>
+	<programme channel="TVBS" start="20240928060000 +0800" stop="20240928070000 +0800">
+		<title lang="zh">FOCUS世界新聞</title>
+	</programme>
+	<programme channel="TVBS" start="20240928070000 +0800" stop="20240928080000 +0800">
+		<title lang="zh">FOCUS全球新聞</title>
+	</programme>
+	<programme channel="TVBS" start="20240928080000 +0800" stop="20240928090000 +0800">
+		<title lang="zh">健康2.0</title>
+	</programme>
+	<programme channel="TVBS" start="20240928090000 +0800" stop="20240928100000 +0800">
+		<title lang="zh">少康戰情室</title>
+	</programme>
+	<programme channel="TVBS" start="20240928100000 +0800" stop="20240928110000 +0800">
+		<title lang="zh">少康戰情室</title>
+	</programme>
+	<programme channel="TVBS" start="20240928110000 +0800" stop="20240928120000 +0800">
+		<title lang="zh">金臨天下</title>
+	</programme>
+	<programme channel="TVBS" start="20240928120000 +0800" stop="20240928130000 +0800">
+		<title lang="zh">FOCUS全球新聞</title>
+	</programme>
+	<programme channel="TVBS" start="20240928130000 +0800" stop="20240928140000 +0800">
+		<title lang="zh">健康2.0</title>
+	</programme>
+	<programme channel="TVBS" start="20240928140000 +0800" stop="20240928150000 +0800">
+		<title lang="zh">新聞大白話特報</title>
+	</programme>
+	<programme channel="TVBS" start="20240928150000 +0800" stop="20240928160000 +0800">
+		<title lang="zh">新聞大白話特報</title>
+	</programme>
+	<programme channel="TVBS" start="20240928160000 +0800" stop="20240928170000 +0800">
+		<title lang="zh">新聞大白話特報</title>
+	</programme>
+	<programme channel="TVBS" start="20240928170000 +0800" stop="20240928180000 +0800">
+		<title lang="zh">新聞大白話特報</title>
+	</programme>
+	<programme channel="TVBS" start="20240928180000 +0800" stop="20240928190000 +0800">
+		<title lang="zh">健康2.0</title>
+	</programme>
+	<programme channel="TVBS" start="20240928190000 +0800" stop="20240928200000 +0800">
+		<title lang="zh">TVBS戰情室</title>
+	</programme>
+	<programme channel="TVBS" start="20240928200000 +0800" stop="20240928210000 +0800">
+		<title lang="zh">TVBS戰情室</title>
+	</programme>
+	<programme channel="TVBS" start="20240928210000 +0800" stop="20240928220000 +0800">
+		<title lang="zh">TVBS文茜的世界周報</title>
+	</programme>
+	<programme channel="TVBS" start="20240928220000 +0800" stop="20240928230000 +0800">
+		<title lang="zh">TVBS文茜的世界周報</title>
+	</programme>
+	<programme channel="TVBS" start="20240928230000 +0800" stop="20240928235900 +0800">
+		<title lang="zh">T觀點</title>
+	</programme>
 	<channel id="TVBS新闻台">
 		<display-name lang="zh">TVBS新闻台</display-name>
 	</channel>
